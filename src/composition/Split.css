@@ -1,0 +1,6 @@
+.split {
+    flex: 1;
+    padding: 1em; /*em is relative to the current font size*/
+  }
+
+  
